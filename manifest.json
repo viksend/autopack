@@ -1,0 +1,205 @@
+{
+    "baseUrl":  "https://raw.githubusercontent.com/viksend/autopack/main/mods/",
+    "mods":  [
+                 {
+                     "file":  "Almanac-1.21.3-4-fabric-1.5.0.jar",
+                     "sha1":  "c69639e3bc9cde885bd21c2afdfecf95d05dfd52"
+                 },
+                 {
+                     "file":  "alternate-current-mc1.21.2-1.9.1.jar",
+                     "sha1":  "a6f82f98db09439b166863f6f307a02651d8a7c3"
+                 },
+                 {
+                     "file":  "athena-fabric-1.21.4-4.2.1.jar",
+                     "sha1":  "568080e59421e0bf03f6399108c1c0493d765e4b"
+                 },
+                 {
+                     "file":  "attributefix-fabric-1.21.4-21.4.2.jar",
+                     "sha1":  "a18544dfbd7c2bb8301c2aa1505503c94f743bfe"
+                 },
+                 {
+                     "file":  "audioplayer-fabric-1.21.4-1.13.2.jar",
+                     "sha1":  "20607b73b3d551727fd57b692fbf4c6e8ced2c15"
+                 },
+                 {
+                     "file":  "BadOptimizations-2.4.1-1.21.2-21.5.jar",
+                     "sha1":  "f3ac49d4866a6fde8623c0021481285dc1d3d2b8"
+                 },
+                 {
+                     "file":  "badpackets-fabric-0.8.2.jar",
+                     "sha1":  "5479129bfeaaad1ff2f8c5ebbda8a6dc7c4d7aaf"
+                 },
+                 {
+                     "file":  "c2me-fabric-mc1.21.4-0.3.2+alpha.0.45.jar",
+                     "sha1":  "1f7a73b6c4b7595d5dd9a1e31e4b2e57333598a1"
+                 },
+                 {
+                     "file":  "cloth-config-17.0.144-fabric.jar",
+                     "sha1":  "63a1a3b25c642f5a745dfcc9bdc0841660f560af"
+                 },
+                 {
+                     "file":  "Clumps-fabric-1.21.4-22.0.0.1.jar",
+                     "sha1":  "d1f522452cfa1286349525ccace065a8ec7eb940"
+                 },
+                 {
+                     "file":  "cupboard-fabric-1.21-3.7.jar",
+                     "sha1":  "042c0eb9d61465017784156c1171da8cbc9e47d2"
+                 },
+                 {
+                     "file":  "CustomPlayerModels-Fabric-1.21.4-0.6.27a.jar",
+                     "sha1":  "ef977fea06d60e00e9a98b16c71c655560da58e7"
+                 },
+                 {
+                     "file":  "Debugify-1.21.4+1.1.jar",
+                     "sha1":  "ca7bf4d2bf863953c0265024619b536638827e8e"
+                 },
+                 {
+                     "file":  "dynamic-fps-3.11.8+minecraft-1.21.2-fabric.jar",
+                     "sha1":  "59df2468ef923b95980b4c78709ab3c57d9528bf"
+                 },
+                 {
+                     "file":  "emotecraft-fabric-for-MC1.21.4-2.5.8.jar",
+                     "sha1":  "1f37118b21bdab013df726f6ec2776aa87ccd0e1"
+                 },
+                 {
+                     "file":  "enhancedblockentities-0.11.3+1.21.4.jar",
+                     "sha1":  "261b0e79ffbb79f9b708827333bd745620ebbec0"
+                 },
+                 {
+                     "file":  "entityculling-fabric-1.10.5-mc1.21.4.jar",
+                     "sha1":  "d792ac760c5cd90f7a71635928fee386cfcd8054"
+                 },
+                 {
+                     "file":  "fabric-api-0.119.4+1.21.4.jar",
+                     "sha1":  "1c7871b6af04edc8b8f0dbad12606d67f6118a11"
+                 },
+                 {
+                     "file":  "fabric-language-kotlin-1.13.13+kotlin.2.4.10.jar",
+                     "sha1":  "620cb137a9dc69ce86f3114f19d9eedab16366f5"
+                 },
+                 {
+                     "file":  "faewulf_lib-fabric-1.21.4-1.3.2.jar",
+                     "sha1":  "22977b5d9ca492fa4306246925520a8e61fdd931"
+                 },
+                 {
+                     "file":  "ferritecore-7.1.3-fabric.jar",
+                     "sha1":  "7b08d3c7242b18c9e15c11d365d368dde6955a9c"
+                 },
+                 {
+                     "file":  "gpumemleakfix-fabric-1.21-1.8.jar",
+                     "sha1":  "416bca48280bbbb824e595d12fc694cc7488cfc4"
+                 },
+                 {
+                     "file":  "ImmediatelyFast-Fabric-1.8.7+1.21.4.jar",
+                     "sha1":  "209dc1c476438f4d613e4d9d697971cef32f042a"
+                 },
+                 {
+                     "file":  "iris-fabric-1.8.8+mc1.21.4.jar",
+                     "sha1":  "54f7ab6450530bdca2ba44887b53458f78a256ef"
+                 },
+                 {
+                     "file":  "krypton-0.2.8.jar",
+                     "sha1":  "73e792eb5f120787becda4b87b6ff18b26caea50"
+                 },
+                 {
+                     "file":  "language-reload-1.7.6+1.21.4.jar",
+                     "sha1":  "599952d8018d6e1d89410f72033c162600e3cdea"
+                 },
+                 {
+                     "file":  "letmedespawn-1.21.x-fabric-1.5.0.jar",
+                     "sha1":  "e88e3167ea203fae1b084360fc8242bdfff63128"
+                 },
+                 {
+                     "file":  "lithium-fabric-0.15.3+mc1.21.4.jar",
+                     "sha1":  "b7100505d1178b0f9a1dac4a24472ad1293b890c"
+                 },
+                 {
+                     "file":  "modelfix-1.21.3-1.10-fabric.jar",
+                     "sha1":  "3f4d67c87d0a6e8c323f443635013bfd58b8872d"
+                 },
+                 {
+                     "file":  "modernfix-fabric-5.20.3+mc1.21.4.jar",
+                     "sha1":  "46dabb966c9772daf5d3af20fbadc8f2fbcbeb18"
+                 },
+                 {
+                     "file":  "modmenu-13.0.4.jar",
+                     "sha1":  "b5d816f6df9ffb9af8f9c2b43dfb15d9bbfcf400"
+                 },
+                 {
+                     "file":  "moreculling-fabric-1.21.4-1.2.10.jar",
+                     "sha1":  "9caa2f4d72cf2f5a80ebafab54ae4ee73f1b6bb5"
+                 },
+                 {
+                     "file":  "MouseTweaks-fabric-mc1.21.3-2.27.jar",
+                     "sha1":  "8267df3b46152116a252d085da525fb84400a95a"
+                 },
+                 {
+                     "file":  "NoChatReports-FABRIC-1.21.4-v2.11.0.jar",
+                     "sha1":  "9fc63f45ee0f157fd161f57f2af1db20ae603918"
+                 },
+                 {
+                     "file":  "notenoughcrashes-fabric-4.4.8+1.21.4.jar",
+                     "sha1":  "4984dc07d4bdbff2815ed0e908a8b8a2370f37b4"
+                 },
+                 {
+                     "file":  "owo-lib-0.12.20+1.21.4.jar",
+                     "sha1":  "60851f1d8a82b5ebff193259ad9c8f908daec3c4"
+                 },
+                 {
+                     "file":  "packetfixer-3.3.1-1.20.5-1.21.X-merged.jar",
+                     "sha1":  "a8bb6e25807682e72c23bf4065f3cd5f6373ece3"
+                 },
+                 {
+                     "file":  "piggyback-fabric-1.21.4-1.1.0.jar",
+                     "sha1":  "fb17d9bdab9dcfbd3d69e6aeb66afd271b9925cf"
+                 },
+                 {
+                     "file":  "placeholder-api-2.5.2+1.21.3.jar",
+                     "sha1":  "841b1ef57880fc0f94a22ab268b737c3830b5595"
+                 },
+                 {
+                     "file":  "prickle-fabric-1.21.4-21.4.1.jar",
+                     "sha1":  "6be7c2809b32ec1a629fb71513616b0ba4326641"
+                 },
+                 {
+                     "file":  "reeses-sodium-options-fabric-1.8.3+mc1.21.4.jar",
+                     "sha1":  "c72f07a8f139f0420cbce29bd9eb29fb24db427f"
+                 },
+                 {
+                     "file":  "rottenend-1.0.0.jar",
+                     "sha1":  "78bf104dc11be3f0b6746a0c142e8861a4f89630"
+                 },
+                 {
+                     "file":  "servercore-fabric-1.5.8+1.21.4.jar",
+                     "sha1":  "f9c7fe0fcc84dc9a9fb6e3a0e2da23ec731bd78f"
+                 },
+                 {
+                     "file":  "sodium-extra-fabric-0.6.1+mc1.21.4.jar",
+                     "sha1":  "c3bd0d2121653fec3c0f82a841d88e85e87f9796"
+                 },
+                 {
+                     "file":  "sodium-fabric-0.6.13+mc1.21.4.jar",
+                     "sha1":  "c881d2db971207c396b5629632437f1520c0c478"
+                 },
+                 {
+                     "file":  "threadtweak-fabric-0.1.7+mc1.21.5.jar",
+                     "sha1":  "03161e283ee4942547e84dd643573a1d68e7a25b"
+                 },
+                 {
+                     "file":  "vmp-fabric-mc1.21.4-0.2.0+beta.7.192-all.jar",
+                     "sha1":  "e745839bccabd82abe087537aa039672dd7560da"
+                 },
+                 {
+                     "file":  "voicechat-fabric-1.21.4-2.6.22.jar",
+                     "sha1":  "0d6f07474d1e6ef4936299762cb83ce2aba6a965"
+                 },
+                 {
+                     "file":  "wWaypoints-0.2.0-1.21.4.jar",
+                     "sha1":  "ec6a1c6a72f39a23dcef3ee5df7235e1c98791fc"
+                 },
+                 {
+                     "file":  "yet_another_config_lib_v3-3.8.2+1.21.4-fabric.jar",
+                     "sha1":  "603164222915a5b2ef159a3aabae75f8bac268f7"
+                 }
+             ]
+}
