@@ -163,7 +163,7 @@
                  },
                  {
                      "file":  "rottenend-1.0.0.jar",
-                     "sha1":  "765a54a77c4e0225395d873bf55a876959ee8f70"
+                     "sha1":  "1d90a7561fa98b735a331de9465e7c6932603cb3"
                  },
                  {
                      "file":  "servercore-fabric-1.5.8+1.21.4.jar",
@@ -180,6 +180,10 @@
                  {
                      "file":  "threadtweak-fabric-0.1.7+mc1.21.5.jar",
                      "sha1":  "03161e283ee4942547e84dd643573a1d68e7a25b"
+                 },
+                 {
+                     "file":  "tsunami-1.0.0.jar",
+                     "sha1":  "bb7c3ab979ea21dc0c777b3cb76801f32d6c8d69"
                  },
                  {
                      "file":  "vmp-fabric-mc1.21.4-0.2.0+beta.7.192-all.jar",
